@@ -1,0 +1,76 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #b784db;
+}
+.animation-box{
+  width: 75%;
+  height: 27.5rem;
+  margin: 0 auto;
+  overflow: hidden;
+  position: absolute;
+}
+.first-text{
+  font-style: 'Times New Roman';
+  font-size: 2.5rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 5rem;
+}
+.second-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 8rem;
+}
+.third-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 12rem;
+}
+.fourth-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 15rem;
+}
+.my-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 18rem;
+}
+.fifth-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 22rem;
+}
+.seventh-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 23.5rem;
+}
+.sixth-text{
+  font-style: 'Times New Roman';
+  font-size: 1.15rem;
+  color:white;
+  position: absolute;
+  left: 2.5rem;
+  top: 26rem;
+}
+
